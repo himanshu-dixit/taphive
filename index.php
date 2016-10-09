@@ -9,13 +9,15 @@
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
-
+<link href="https://fonts.googleapis.com/css?family=Open+Sans:400,600,700" rel="stylesheet">
  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.4.0/css/font-awesome.min.css">
  <link rel="stylesheet" href="assests/index.css">
 
 
 </head>
 <body>
+
+
 
     <div class="intro_bar" id="scaled_intro_bar">
       <div class="blue_layer">
@@ -30,13 +32,12 @@
              <span class="icon-bar"></span>
              <span class="icon-bar"></span>
            </button>
-           <a class="navbar-brand logo" href="https://himanshudixit.me">CODELYTICS</a>
+           <a class="navbar-brand logo" href="#">CODELYTICS</a>
          </div>
          <div class="collapse navbar-collapse" id="myNavbar">
          <ul class="nav navbar-nav navbar-right">
-           <li class="active"><a href="https://himanshudixit.me">Home</a></li>
-           <li><a href="https://himanshudixit.me/about_me.html">About Me</a></li>
-           <li><a href="https://himanshudixit.me/skills.html">Skills</a></li>
+           <li class="active menu_link"><a href="#">About</a></li>
+           <li class="menu_link"><a href="#">Login</a></li>
 
          </ul>
        </div>

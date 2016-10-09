@@ -1,0 +1,162 @@
+
+.con1{
+  float:left;
+  width:52%;
+  background-color: #4e7ff5;
+  height:100%;
+  position: relative;
+}
+.con2{
+  float:left;
+  width:47%;
+    height:100%;
+    padding-left: 10px ;
+    color: #c6c6c6;
+
+
+}
+.menu{
+  padding : 0px 15px 18px 20px;
+width:100%;
+    font-family: "Roboto";
+  color:#d6d5d5;
+     position:absolute;
+  bottom:0px;
+}
+.left-float{
+  font-weight: 300;
+  float:left;
+  margin-right:20px;
+}
+.menu-left{
+  float:left;
+  right:0px;
+
+}
+.menu-right{
+  float:right;
+  margin-right: 55px;
+}
+.search_box{
+margin:70px 5% 30px 5%;
+}
+
+.search_box_input{
+
+  border-style: solid;
+  border-width: 1px;
+  border-color: rgba(0, 0, 0,0.22);
+  background-color: rgb(255, 255, 255);
+
+
+height:50px;
+
+  font-size: 15px;
+  font-family: "Roboto";
+  color: rgb(178, 178, 178);
+
+padding: 21px 20px 45px 20px;
+
+}
+
+.container {
+    padding-right: 0px;
+    padding-left: 0px;
+
+}
+.con_content{
+  margin : 0px 5%;
+  font-size:17px;
+  font-weight:500;
+}
+.nav-pills > li.active > a, .nav-pills > li.active > a:focus, .nav-pills > li.active > a:hover {
+  color: #7f7f81;
+  background-color:#fff;
+
+
+     border-bottom: 4px solid #487df2;
+     border-radius: 0px;
+}
+a {
+    color: #7f7f81;
+
+}
+.nav-justified > li {
+    display: table-cell;
+    width: 107px;
+    font-weight:400;
+}
+
+.email{
+margin-top: 20px;
+  border-style: solid;
+  border-width: 1px;
+  border-color: rgba(0, 0, 0,0.22);
+  background-color: rgb(255, 255, 255);
+
+
+height:50px;
+
+  font-size: 15px;
+  font-family: "Roboto";
+  color: rgb(178, 178, 178);
+
+padding: 21px 20px 45px 20px;
+
+}
+.password{
+margin-top: 20px;
+  border-style: solid;
+  border-width: 1px;
+  border-color: rgba(0, 0, 0,0.22);
+  background-color: rgb(255, 255, 255);
+
+
+height:40px;
+
+  font-size: 15px;
+  font-family: "Roboto";
+  color: rgb(178, 178, 178);
+
+padding: 21px 20px 45px 20px;
+
+}
+.login{
+  border-radius:2px;
+  margin-top:16px;
+  float:right;
+
+color:#fff;
+  background-color: rgb(76, 124, 238);
+
+  width: 142px;
+  height: 59px;
+padding: 18px 0px;
+
+}
+.medium{
+  font-size:23px;
+  font-weight: 400;
+  margin-top: 68px;
+  color:#7a7a7a;
+}
+.google_login {
+  margin-top:25px;
+  border-radius: 2px;
+  background-color: #4e87ff;
+
+  width: 408px;
+  height: 77px;
+color:#fff;
+
+}
+.google_icon{
+  float:left;
+  margin: 22px 5px 0px 22px;
+}
+.google_text{
+  float:right;
+  margin-right:30px;
+  margin-top:27px;
+  font-size:16px;
+}
