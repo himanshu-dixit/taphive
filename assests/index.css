@@ -6,7 +6,7 @@ html,body{
 }
 .intro_bar{
 
-  background: url('../resource/cover.jpg');
+  background: url('http://qsf.ec.quoracdn.net/-images.home.logged_out_bg3.pngbd129e920075dee8.png');
   background-size: contain;
   height: 600px;
   width: 100%;
@@ -15,7 +15,7 @@ html,body{
   /*
   background-color: rgba(12, 19, 98, 0.72);
   */
-    background: radial-gradient(ellipse at center, rgba(12, 19, 98, 0.72) 25%,rgba(0, 0, 0, 0.92) 104%);
+background: rgba(19,88,214,0.86);
 
   width: 100%;
   height:100%;
@@ -40,16 +40,10 @@ a{
   font-family: "Open Sans";
 
 }
-.menu_link{
-  font-weight: 600;
-}
+.men
 /* On Fouc
 s Menu Item*/
 .nav > li > a:focus, .nav > li > a:hover {
     text-decoration: none;
     background-color: rgba(255, 0, 0,0); ;
-}
-#logo_image{
-
-  margin-left: 13%;
 }
