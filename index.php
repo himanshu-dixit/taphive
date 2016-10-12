@@ -1,7 +1,7 @@
 <!DOCTYPE HTML>
 <html lang="en">
 <head>
-  <title>Code Compare</title>
+  <title>tapnar</title>
   <meta charset="utf-8" />
 <meta name="description" content="Code and Compete With Friends and Peers. Showcase your skills.">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -32,7 +32,7 @@
              <span class="icon-bar"></span>
              <span class="icon-bar"></span>
            </button>
-           <a class="navbar-brand logo" href="#">CODELYTICS</a>
+           <a class="navbar-brand logo" href="#" style="text-transform:lowercase;">tapnar</a>
          </div>
          <div class="collapse navbar-collapse" id="myNavbar">
          <ul class="nav navbar-nav navbar-right">
