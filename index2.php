@@ -45,8 +45,8 @@
      </nav>
 
 
-         <div class="blue_layer_heading">Learn, Think Outside The Book</div>
-         <div class="blue_layer_small_text">Your personal coach to help you making learning fun and more interactive.</div>
+         <div class="blue_layer_heading" style="  margin: 65px auto 5px 20px;"><center>Learn, Think Outside The Book</center></div>
+         <div class="blue_layer_small_text"><center>Your personal coach to help you making learning fun and more interactive.</center></div>
 
    </div></div>
 
