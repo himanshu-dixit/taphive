@@ -12,11 +12,11 @@ html,body{
   height: 500px;
   width: 100%;
 }
-.blue_layer{
+.purple_layer{
   /*
   background-color: rgba(12, 19, 98, 0.72);
   */
-background: rgba(19,88,214,0.86);
+background: rgba(31,19,214,0.72);
 
   width: 100%;
   height:500px;

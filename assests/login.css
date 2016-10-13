@@ -2,9 +2,19 @@
 .con1{
   float:left;
   width:52%;
-  background-color: #4e7ff5;
+
+    background: url('http://qsf.ec.quoracdn.net/-images.home.logged_out_bg3.pngbd129e920075dee8.png');
   height:100%;
   position: relative;
+}
+.blue_layer{
+  /*
+  background-color: rgba(12, 19, 98, 0.72);
+  */
+background: rgba(19,88,214,0.86);
+
+  width: 100%;
+  height: 100%;
 }
 .con2{
   float:left;
