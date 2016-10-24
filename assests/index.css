@@ -8,7 +8,7 @@ html,body{
 
   background: url('../resource/cover.jpg');
   background-size: contain;
-  height: 100%;
+  height: 800px;
   width: 100%;
 }
 .blue_layer{

@@ -88,9 +88,9 @@
 </div>
 
 <script>
-
+/*
 document.getElementById("scaled_intro_bar").style.height = $(window).height()+"px";
-
+*/
 </script>
 
 <script src="particle.js"></script>
