@@ -1,7 +1,7 @@
 <!DOCTYPE HTML>
 <html lang="en">
 <head>
-  <title>tapnar</title>
+  <title>Taphive : Develop Your Programming & Other Skills</title>
   <meta charset="utf-8" />
 <meta name="description" content="Code and Compete With Friends and Peers. Showcase your skills.">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -20,8 +20,7 @@
 
 
     <div class="intro_bar" id="scaled_intro_bar">
-      <div class="blue_layer">
-
+      <div class="blue_layer" id="blue_layer">
         <div class="container">
             <div class="row">
         <nav class="nav">
@@ -32,7 +31,7 @@
              <span class="icon-bar"></span>
              <span class="icon-bar"></span>
            </button>
-           <a class="navbar-brand logo" href="#" style="text-transform:lowercase;">tapnar</a>
+           <a class="navbar-brand logo" href="#" style="text-transform:lowercase;">taphive</a>
          </div>
          <div class="collapse navbar-collapse" id="myNavbar">
          <ul class="nav navbar-nav navbar-right">
@@ -43,11 +42,37 @@
        </div>
        </div>
      </nav>
-   </div></div>
+
+     <div class="page_heading_text">
+         <center><span class="heading">Measure Today. Compete Tommorrow.</span></center>
+       </div>
+      <div class="page_desc_bar">
+           <center><span class="page_desc_bar_info">The A.I. Assistant That Help You Learn Thru Interaction Analyzing Your Weakness And Strength.</span></center>
+         </div>
+      <div class="signup">
+        <div class="col-sm-6 col-sm-offset-3"><div class="input-group">
+        <input type="email" id="email" name="email" placeholder="Enter your email" class="form-control email    form-email" required="">
+        <span class="input-group-btn">
+        <button class="btn btn-color" type="submit" form="form" value="Submit">Get Invite</button>
+        </span>
+        </div>
+        </div>
+
+        </div>
+        </div>
+        <div class="announcement_box">
+             <center><span class="announcement_info">We’re launching soon in private beta — sign up to get an invite!</span></center>
+        </div>
 
 
 
-      </div>
+   </div>
+ </div>
+
+
+
+
+        </div>
 
     </div>
 
@@ -57,12 +82,23 @@
 
 
 
+
+
 </div>
 </div>
 
 <script>
+
 document.getElementById("scaled_intro_bar").style.height = $(window).height()+"px";
-console.log($(window).height());
+
 </script>
+
+<script src="particle.js"></script>
+<script>
+particlesJS.load('blue_layer', 'assests/particle.json', function() {
+  console.log('callback - particles.js config loaded');
+});
+</script>
+
 </body>
 </html>
