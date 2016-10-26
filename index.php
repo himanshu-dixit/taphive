@@ -48,6 +48,16 @@
          <div class="blue_layer_heading">Learn, Think Outside The Book</div>
          <div class="blue_layer_small_text">Your personal coach to help you making learning fun and more interactive.</div>
 
+         <div class="signup">
+     <div class="col-sm-6 col-sm-offset-3"><div class="input-group">
+     <input type="email" id="email" name="email" placeholder="Type To Search" class="form-control email    form-email" required="">
+     <span class="input-group-btn">
+     <button class="btn btn-color" type="submit" form="form" value="Submit">Search</button>
+     </span>
+     </div>
+     </div>
+   </div>
+
    </div></div>
 
 

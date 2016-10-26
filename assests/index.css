@@ -63,3 +63,46 @@ s Menu Item*/
   font-weight: 500;
   margin: 15px auto 5px 20px;
 }
+
+.signup{
+  width: 100%;
+  margin-top: 140px;
+}
+
+.fast-reg .form-control {
+    background: #ffffff;
+    border: none;
+    font-weight: 700;
+    font-size: 18px;
+    height: 50px;
+    color: #333;
+}
+.btn-color {
+    background-color: #374765;
+    color: #FFF;
+}
+.btn {
+    font-family: "Raleway", "din_proregular", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 700;
+    font-size: 11px;
+    line-height: 15px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    -o-transition: all .3s ease;
+    -webkit-transition: all .3s ease;
+    -moz-transition: all .3s ease;
+    transition: all .3s ease;
+    margin-right: 15px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+    display: inline-block;
+    padding: 14px 38px 13px 38px;
+    border: 0px;
+    height: 60px;
+}
+#email{
+   height:60px;
+}
+#email:focus ,textarea:focus, input:focus{
+    outline: none;
+}
