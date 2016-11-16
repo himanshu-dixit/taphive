@@ -51,8 +51,8 @@
          <div class="signup">
      <div class="col-sm-6 col-sm-offset-3"><div class="input-group">
      <input type="email" id="email" name="email" placeholder="Type To Search" class="form-control email    form-email" required="">
-     <span class="input-group-btn">
-     <button class="btn btn-color" type="submit" form="form" value="Submit">Search</button>
+     <span class="input-group-btn search_button_group">
+       <i class="fa fa-search" aria-hidden="true"></i>
      </span>
      </div>
      </div>
